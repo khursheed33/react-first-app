@@ -1,0 +1,21 @@
+.Header{
+    height: 100px;
+    width: auto;
+    margin: 20px;
+    padding: 30px;
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    transition: 0.5s ease-in-out;
+    border-radius: 12px;
+
+    
+}
+.Title{
+    font-size: 20px;
+    transition: 0.1s ease-in-out;
+}
+.Title:hover{
+    font-size: 32px;
+}
+

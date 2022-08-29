@@ -1,0 +1,7 @@
+.Container{
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(235, 235, 235);
+    border-radius: 8px;
+}
