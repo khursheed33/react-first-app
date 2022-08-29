@@ -1,15 +1,13 @@
 .Header{
-    height: 100px;
+    height: auto;
     width: auto;
-    margin: 20px;
-    padding: 30px;
+    margin: 2%;
+    padding: 5%;
     background-color: aliceblue;
     color: black;
     text-align: center;
     transition: 0.5s ease-in-out;
     border-radius: 12px;
-
-    
 }
 .Title{
     font-size: 20px;
